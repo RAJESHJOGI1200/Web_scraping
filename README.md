@@ -53,7 +53,7 @@ The objectives of this project are:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RAJESHJOGI1200/2024-olympics-medals-analysis.git
+   git clone [https://github.com/RAJESHJOGI1200/Web_scraping.git]
    ```
 
 2. Install dependencies:
